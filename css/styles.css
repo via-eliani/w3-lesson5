@@ -1,0 +1,25 @@
+h1{
+    color: #55AC7D;
+    text-align: center;
+    padding-top: 50px;
+}
+a{
+color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: #FA707C;
+}
+img{
+    max-width: 300px;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+/*.nav-links{
+    display: flex;
+    justify-content: center;
+}*/
