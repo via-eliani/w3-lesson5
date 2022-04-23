@@ -1,3 +1,7 @@
+body{
+    border-width: 5px;;
+    border-color: gray;
+}
 h1{
     color: #55AC7D;
     text-align: center;
