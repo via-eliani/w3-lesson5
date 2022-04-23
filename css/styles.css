@@ -17,6 +17,7 @@ a:hover{
     color: #FA707C;
 }
 img{
+    display: flex;
     max-width: 300px;
 }
 p{
